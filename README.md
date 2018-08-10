@@ -1,2 +1,4 @@
 # WWCodeMedellin
-Code used in Python for Data Science Meetups
+Code used in Meetups
+
+SentimentAnalysis: Code to download twitter stream and make sentiment analysis over it. 
