@@ -11,5 +11,8 @@ Code used in Meetups
 
 ## Python Video Tutorials (Spanish)
 
+[![Scikit-Learn](https://img.youtube.com/vi/DrE_0lDI3Vk/0.jpg)](https://www.youtube.com/watch?v=DrE_0lDI3Vk "Scikit-Learn")
 [![Jupyter Notebooks](https://img.youtube.com/vi/MZomuIgcuVU/0.jpg)](https://www.youtube.com/watch?v=MZomuIgcuVU "Jupyter Notebooks")
+[![Cleaning Dataset](https://img.youtube.com/vi/kyU1EEWBxZg/0.jpg)](https://www.youtube.com/watch?v=kyU1EEWBxZg "Cleaning Dataset")
+
 
