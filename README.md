@@ -8,8 +8,12 @@ Code used in Meetups
 * DataCleaning: Using pandas to clean a movies dataset
 * Jupyter Notebooks: Example code of some uses of Jupyter Notebooks integrating other platforms. Code from [Plot.ly Jupyter Notebook Tutorial in Python](https://plot.ly/python/ipython-notebook-tutorial/#getting-started)
 * Scikit-Learn: Using Scikit-Learn library for model training and testing. Code from [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.02-Introducing-Scikit-Learn.ipynb) with some corrections
+* Geo located data using Folium: Show datasets with geolocated data in maps. Code from [An Introduction to Geo Data Science with Python](https://blog.plon.io/geo-data-science/introduction-geo-data-science-python/) with some changes
 
 ## Python Video Tutorials (Spanish)
+
+### Geo located data using Folium
+[![Geo located data using Folium](https://img.youtube.com/vi/1IF1hooBzXY/0.jpg)](https://www.youtube.com/watch?v=1IF1hooBzXY "Geo located data using Folium")
 
 ### Scikit-Learn
 [![Scikit-Learn](https://img.youtube.com/vi/DrE_0lDI3Vk/0.jpg)](https://www.youtube.com/watch?v=DrE_0lDI3Vk "Scikit-Learn")
