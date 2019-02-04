@@ -3,10 +3,10 @@ Code used in Meetups
 
 ## Python
 
-* Generate .csv Tweets: Extract tweets form API and put them in a .csv file.
-* SentimentAnalysis: Code to download twitter stream and make sentiment analysis over it.
-* WordCloud: Code to create Word Cloud analysis over twitter data stored in csv.
-* DataCleaning: Using pandas to clean a movies dataset
+* Generate .csv Tweets: Extract tweets form API and put them in a .csv file. Some code from [How to extract Twitter tweets data and followers to Excel](https://nocodewebscraping.com/extract-twitter-tweets-followers-excel/)
+* SentimentAnalysis: Code to download twitter stream and make sentiment analysis over it. Code from [Basic data analysis on Twitter with Python](https://medium.freecodecamp.org/basic-data-analysis-on-twitter-with-python-251c2a85062e) with some additions
+* WordCloud: Code to create Word Cloud analysis over twitter data stored in csv. Code from [Twitter Analysis with Python](https://datascienceplus.com/twitter-analysis-with-python/) with some additions.
+* DataCleaning: Using pandas to clean a movies dataset. Code from [Cleaning Dirty Data with Pandas & Python](http://www.developintelligence.com/blog/2017/08/data-cleaning-pandas-python/) with some additions
 * Jupyter Notebooks: Example code of some uses of Jupyter Notebooks integrating other platforms. Code from [Plot.ly Jupyter Notebook Tutorial in Python](https://plot.ly/python/ipython-notebook-tutorial/#getting-started)
 * Scikit-Learn: Using Scikit-Learn library for model training and testing. Code from [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.02-Introducing-Scikit-Learn.ipynb) with some corrections
 * Geo located data using Folium: Show datasets with geolocated data in maps. Code from [An Introduction to Geo Data Science with Python](https://blog.plon.io/geo-data-science/introduction-geo-data-science-python/) with some changes
