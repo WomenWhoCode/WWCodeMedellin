@@ -25,7 +25,7 @@ Desde nuestra filosofía, queremos proyectarnos como una comunidad de inclusión
 
 
 # ¿Quieres apoyarnos? 
-Te invitamos a apoyarnos. Tenemos un Crowdfunding en Open Collective, en donde puedes hacer tus donaciones y convertirte en nuestro patrocinador.
+Tenemos un Crowdfunding en Open Collective, en donde puedes hacer tus donaciones y convertirte en nuestro patrocinador.
 
 Este es el link   [https://opencollective.com/wwcodemedellin/](https://opencollective.com/wwcodemedellin/) 
 
