@@ -19,9 +19,9 @@ Desde nuestra filosofía, queremos proyectarnos como una comunidad de inclusión
 
 
 # Equipo Organizador
-- Linda Gutiérrez - [@lgutie16]()
-- Isabel Yepes - [@iyepes0120]()
-- Catalina Giraldo - [@cataschrodinger]()
+- Linda Gutiérrez - [@lgutie16](https://twitter.com/lgutie16)
+- Isabel Yepes - [@iyepes0120](https://twitter.com/iyepes0120)
+- Catalina Giraldo - [@cataschrodinger](https://twitter.com/cataschrodinger)
 
 
 # ¿Quieres apoyarnos? 
